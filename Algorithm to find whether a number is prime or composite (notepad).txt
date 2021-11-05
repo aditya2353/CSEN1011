@@ -1,0 +1,10 @@
+Algorithm to find whether a number is prime or composite 
+
+1.Start
+2.accept positive integers(number greater than two)
+3.Initialize counter variable with value 2
+4.Divide the number with counter value 
+5.If the reminder is zero display that 'n' is composite and stop
+6.If the reminder is not zero, else increment the 'counter' and repeat from step 4 until the 'counter' value is less than n
+7.after completion of all the steps display that a number 'n' is prime
+8.Stop  
